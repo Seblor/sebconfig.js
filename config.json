@@ -1,0 +1,10 @@
+{
+  "key1": {
+    "key2": {
+      "key3": "value1"
+    },
+    "key2bis": {
+      "key3bis": null
+    }
+  }
+}

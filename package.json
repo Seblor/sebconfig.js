@@ -1,0 +1,18 @@
+{
+  "name": "sebconfig",
+  "version": "1.0.8",
+  "description": "Tool helping management of a config file",
+  "main": "sebConfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Seblor/sebconfig.js.git"
+  },
+  "author": "Seblor",
+  "license": "GPL-3.0"
+}
